@@ -1,0 +1,21 @@
+AI Delivery Performance — Key Analyst Insights
+
+1.Delivery performance is below the target
+The delay rate is 21.36%, which is higher than the 20% target.
+This shows that delivery performance needs improvement.
+
+2.Weather has a clear impact on delays
+Delay rates increase from around 2% in cold weather to 5.46% during storms.
+This suggests that weather conditions should be considered when planning delivery times.
+
+3.Express delivery has the highest delay time
+Express deliveries have an average delay of 1.96 hours, much higher than the other delivery modes.
+Faster delivery promises may be creating more pressure on the delivery process.
+
+4.Delays are spread across all regions
+Central, West, North, and South have similar delayed deliveries, while East is slightly lower.
+This suggests the problem is not limited to one region and may be related to the overall delivery process.
+
+5.Most delayed deliveries are still manageable
+Around 78% of deliveries are early, while about 21% are delayed.
+Most delays are in the slight-delay category, so improving these smaller delays could have a significant effect on the overall delay rate.
