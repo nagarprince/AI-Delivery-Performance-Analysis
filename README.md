@@ -17,7 +17,6 @@ Late deliveries increase cost and hurt customer satisfaction. This project answe
 ## Dataset
 
 - **Records:** 25,000+ deliveries
-- **Source:** [add source here, e.g. Kaggle link or "synthetic dataset created for practice"]
 - **Columns:** Delivery ID, Region, Delivery Mode, Delivery Partner, Weather Condition, Package Weight (KG), Distance (KM), Delivery Cost, Delay Severity, Delivery Status
 
 ## Approach
